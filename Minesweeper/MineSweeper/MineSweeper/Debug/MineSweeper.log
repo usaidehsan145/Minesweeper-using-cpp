@@ -1,0 +1,18 @@
+﻿  MineSweeper.cpp
+F:\Semester 2\Object Oriened Programming\final project\MineSweeper.cpp(8,10): fatal error C1083: Cannot open include file: 'mygraphics.h': No such file or directory
+  myconsole.cpp
+F:\Semester 2\Object Oriened Programming\final project\MineSweeper\MineSweeper\myconsole.cpp(127,26): error C2664: 'BOOL SetConsoleTitleW(LPCWSTR)': cannot convert argument 1 from 'char []' to 'LPCWSTR'
+F:\Semester 2\Object Oriened Programming\final project\MineSweeper\MineSweeper\myconsole.cpp(127,21): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\consoleapi2.h(510,1): message : see declaration of 'SetConsoleTitleW'
+F:\Semester 2\Object Oriened Programming\final project\MineSweeper\MineSweeper\myconsole.cpp(184,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Semester 2\Object Oriened Programming\final project\MineSweeper\MineSweeper\myconsole.cpp(185,32): warning C4305: '+=': truncation from 'double' to 'float'
+  mygraphics.cpp
+F:\Semester 2\Object Oriened Programming\final project\MineSweeper\MineSweeper\mygraphics.cpp(74,56): error C2664: 'int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)': cannot convert argument 2 from 'char []' to 'LPCWSTR'
+F:\Semester 2\Object Oriened Programming\final project\MineSweeper\MineSweeper\mygraphics.cpp(74,26): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8175,1): message : see declaration of 'DrawTextW'
+F:\Semester 2\Object Oriened Programming\final project\MineSweeper\MineSweeper\mygraphics.cpp(100,56): error C2664: 'int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)': cannot convert argument 2 from 'char []' to 'LPCWSTR'
+F:\Semester 2\Object Oriened Programming\final project\MineSweeper\MineSweeper\mygraphics.cpp(100,26): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8175,1): message : see declaration of 'DrawTextW'
+F:\Semester 2\Object Oriened Programming\final project\MineSweeper\MineSweeper\mygraphics.cpp(110,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Semester 2\Object Oriened Programming\final project\MineSweeper\MineSweeper\mygraphics.cpp(110,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
